@@ -1,0 +1,14 @@
+transformers>=4.40.0
+datasets
+accelerate
+biopython
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+openpyxl
+huggingface-hub
+tokenizers
+fastapi[standard]
