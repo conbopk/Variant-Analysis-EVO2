@@ -168,7 +168,7 @@ export default function GeneViewer({gene, genomeId, onCloseAction}: {
           genomeId,
       );
       setClinvarVariants(variants);
-      console.log(variants);
+      // console.log(variants);
     } catch (e) {
       setClinvarError("Failed to fetch ClinVar variants");
       setClinvarVariants([]);
