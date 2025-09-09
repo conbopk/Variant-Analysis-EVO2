@@ -8,6 +8,10 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+@theme {
+  --color-midnight: #121063;
+  --color-dark-green: #3c4f3d;
+}
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);
