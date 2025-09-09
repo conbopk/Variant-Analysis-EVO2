@@ -48,6 +48,7 @@ Check out the paper behind the model (**highly-recommended**).
 - [Genome modeling and design across all domains of life with Evo 2](https://www.biorxiv.org/content/10.1101/2025.02.18.638918v1.full)
 - [Evo2 github repository](https://github.com/ArcInstitute/evo2)
 
+
 ## Setup
 Follow these steps to install and set up the project.
 
@@ -102,3 +103,5 @@ Run:
 ```bash
 npm run dev
 ```
+
+🌐 You can also try the live web app here: [Evo2 Variant Analysis](https://variant-analysis-evo-2.vercel.app/)
